@@ -1,0 +1,569 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.fitnessImg{
+    object-fit: cover;
+    height: 700px;
+}
+
+.navtext{
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.logo{
+    top: 25px;
+}
+
+.logoImg{
+    width: 8%;
+}
+
+.new{
+    margin-left: 6px;
+    font-size: 12px;
+    background-color: #f36347;
+    color: rgb(231,231,231);
+    /* border-radius: 10px; */
+}
+
+.topspan{
+    bottom: 10px;
+    left: 17px;
+    font-size: 11px;
+    background-color: #f36347;
+    color: rgb(231,231,231);
+    padding: 0px 5px;
+    border-radius: 9px;
+}
+
+.jevNavbar{
+    top: 0;
+    border-style: solid none;
+    border-width: 1px;
+    border-color: rgb(108,108,108);
+}
+
+.range{
+    color: rgb(255, 255, 255);
+    padding-left: 90px;
+    margin: 150px 0px;
+}
+
+.para{
+    font-weight: 300;
+    font-size: 14px;
+    padding-left: 14px;
+    width: 595px;
+}
+
+.looking {
+    font-weight: 400;
+    font-size: 23px;
+    padding-left: 10px;
+    border-left: 3px solid #f36347;
+    border-radius: 3px;
+}
+
+.personaltraining{
+    font-size: 54px;
+    font-weight: 700;
+    padding-left: 12px;
+}
+
+.freetrial{
+    padding: 20px 35px;
+    margin-left: 14px;
+    border-radius: 43px;
+    background-color: #f36347;
+    border: none;
+    font-size: 16px;
+    font-weight: 500;
+    margin-top: 25px;
+}
+
+.free{
+    padding: 18px 35px;
+    left: 175px;
+    font-size: 16px;
+    border-radius: 43px;
+    background-color: transparent;
+    border: 2px solid rgb(255, 255, 255);
+    font-weight: 500;
+    margin-top: 25px; 
+}
+
+.motivation{
+    padding: 130px 0px;
+}
+
+.bold{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.line{
+    border-radius: 35px;
+    border-top-width: 5px;
+    border-top-color: #eaeaea;
+    border-top-style: solid;
+    max-width: 20px;
+    margin: 0px 0px 20px 460px;
+}
+
+.mottext{
+    line-height: 1.8;
+    font-size: 17px;
+    color: #8d8d8d;
+}
+
+.training{
+    top: 65px;
+}
+
+.text{
+    font-weight: 300;
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.offertext{
+    color: #ffffff;
+    font-size: 48px;
+    font-weight: 700;
+}
+
+.services{
+    color: #f36347;
+}
+
+.sectionrows{
+    top:190px;
+    margin: 0px 50px;
+    padding-bottom: 130px;
+}
+
+.borders{
+    border: 1px solid #efefef;
+    background-color: white;
+}
+
+.rowset1{
+    /* width: 410px; */
+    padding: 70px 35px;
+}
+
+.rowtext{
+    font-size: 16px;
+    font-weight: 700;
+    color: #505050;
+}
+
+.rowpara{
+    line-height: 1.8;
+    color: #8d8d8d;
+    font-size: 15px;
+}
+
+.mon{
+    font-size: 18px;
+}
+
+.multi{
+    box-shadow: 0 15px 25px -7px rgb(0 0 0 / 9%), 0 -12px 10px -10px rgb(0 0 0 / 4%);
+}
+
+.worktext{
+    margin: 250px 0px 0px 160px;
+    border: 1px solid #8d8d8d;
+}
+
+.work{
+    font-size: 30px;
+    font-weight: 400; 
+}
+
+.schedule{
+    font-size: 60px;
+    color: #f36347;
+}
+
+.trainingset{
+    height: 705px;
+}
+
+.workoutimg{
+    object-fit: cover;
+}
+
+.workouttext{
+    top: 40%;
+    left: 25%;
+    border: 1px solid #505050;
+}
+
+.right {
+    padding: 115px 100px;
+    box-shadow: 0 15px 25px -16px rgb(0 0 0 / 9%), 0 -12px 10px -10px rgb(0 0 0 / 4%);
+}
+
+.list{
+    border-bottom: 1px solid #efefef;
+}
+
+.listh3{
+    font-size: 17px;
+    font-weight: 700;
+    color: #505050;
+    margin-bottom: 14px;
+    border-left: 3px solid #f36347;
+    padding: 2px 0;
+    padding-left: 10px;
+}
+
+.listp{
+    color: #8d8d8d;
+    font-size: 16px;
+}
+
+.signin{
+    padding: 12px 29px;
+    border-radius: 30px;
+    border-color: #efefef;
+    background-color: white;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.count{
+    font-size: 43px;
+    font-weight: 700;
+    color: #f36347;
+}
+
+.countname{
+    color: #505050;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.left{
+    padding: 205px 70px;
+    box-shadow: 0 15px 25px -17px rgb(0 0 0 / 9%), 0 -12px 10px -10px rgb(0 0 0 / 4%);
+}
+
+.sallybrey{
+    font-weight: 600;
+    font-size: 30px;
+    color: #505050;
+}
+
+.linesally{
+    border-radius: 35px;
+    border-top-width: 5px;
+    border-top-color: #eaeaea;
+    border-top-style: solid;
+    max-width: 20px;
+    margin: 20px 0px;
+}
+
+.personal{
+    color: #8d8d8d;
+}
+
+.about{
+    font-size: 30px;
+    font-weight: 400; 
+}
+
+.trainer{
+    color: #f36347;
+    font-size: 60px;
+}
+
+.aboutworkoutset{
+    height: 796px;
+}
+
+.margin{
+    margin: 130px 0px;
+}
+
+.client{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.lineclient{
+    border-radius: 35px;
+    border-top-width: 5px;
+    border-top-color: #eaeaea;
+    border-top-style: solid;
+    max-width: 20px;
+    margin: 20px 0px 20px 650px;
+}
+
+.clienttext{
+    margin: 5px 0px 2px 50px;
+    color: #505050;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.westboxing{
+    color: #f36347;
+    font-size: 13px;
+    font-weight: 700;
+    margin: 3px 0px 25px 50px;
+}
+
+.quotes{
+    border-right: 1px solid #eaeaea;
+    min-width: 45px;
+}
+
+.quotestext{
+    color: #8d8d8d;
+    font-size: 15px;
+    line-height: 1.7;
+    padding-left: 15px;
+    font-weight: 400;
+}
+
+.mapdata{
+    margin: 0px 20px 20px 20px;
+}
+
+.mapright{
+    padding: 170px 60px;
+    box-shadow: 0 15px 25px -17px rgba(0,0,0,0.09), 0 -12px 10px -10px rgba(0,0,0,0.04);
+}
+
+.maptext{
+    color: #505050;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.mapp{
+    color: #8d8d8d;
+    font-size: 16px;
+    margin: 0px 0px 30px 0px;
+}
+
+.locationh3{
+    color: #505050;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.street{
+    color: #8d8d8d;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.maptext{
+    color: #505050;
+    font-size: 30px;
+    font-weight: 700px;
+}
+
+.bottomtext{
+    top: 80px;
+}
+
+.special{
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.signuph3{
+    font-size: 48px;
+    font-weight: 700;
+    margin: 0px 0px 18px 0px;
+}
+
+.bottomimg{
+    height: 400px;
+    object-fit: cover;
+}
+
+.bottom{
+    padding: 14px 31px;
+    font-size: 13px;
+    font-weight: 700;
+    background-color: transparent;
+    border: #8d8d8d;
+    border-width: 2px;
+    border-style: solid;
+    margin: 31px 0px;
+    border-radius: 30px;
+}
+
+.footerbottom{
+    background-color: #262626;
+}
+
+.footerrow{
+    padding: 70px 60px;
+}
+
+.onetext{
+    font-size: 20px;
+}
+
+.aboutpara{
+    line-height: 1.8;
+    color: #e3e3e3;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.spanset{
+    top: 0;
+    right: 5px;
+    background-color: #f36347;
+    border-radius: 10px;
+    font-size: 11px;
+    color: #ffffff;
+    padding: 1px 7px;
+    font-weight: 500;
+}
+
+.footimg{
+    border-radius: 38px;
+    width: 76px;
+}
+
+.setpara{
+    color: #bebebe;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.seth4{
+    font-weight: 500;
+    color: #efefef;
+    font-size: 17px;
+}
+
+.seth4:hover{
+    color: #f36347;
+}
+
+.contactset{
+    margin-bottom: 15px;
+    color: #bebebe;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.fitnessimage{
+    width: 80px;
+    padding-bottom: 20px;
+}
+
+.footset1{
+    border-bottom: 1px solid #505050;
+}
+
+.footerset{
+    color: #bebebe;
+    font-weight: 400;
+    font-size: 16px;
+    padding: 30px 445px;
+    background-color: #222;
+}
+
+.themeset{
+    padding: 8px 0px 0px 25px;
+}
+
+.boldtext:hover{
+    color: #b7c2f5;
+}
+
+.top{
+    color: #f36347;
+}
+
+.sidenavbar{
+    box-shadow: 0px 6px 13px 5px rgb(0 0 0 / 12%);
+    position: fixed !important;
+    z-index: 2;
+    right: 10px;
+    top: 150px;
+    border-radius: 7px;
+}
+
+.iconone{
+    padding: 6px 5px;
+    border-bottom: 1px solid #bebebe;
+}
+
+.icontwo{
+    padding: 6px 5px;
+}
+
+#iconid:hover{
+    color: #f3ba40 !important;
+    cursor: pointer;
+}
+
+.iconhover:hover{
+    background-color: #f3f5fd;
+}
+
+.bottomfixed{
+    bottom: 20px;
+    right: 30px;
+    z-index: 2;
+    position: fixed !important;
+}
+
+
+@media screen and (max-width:768px) and (min-width:321px) {
+    .range{
+        padding-left: 0px;
+    }
+
+    .para {
+        font-size: 12px;
+        width: 510px;
+    }
+
+    .logoImg {
+        width: 15%;
+    }
+
+    .sidenavbar{
+        top: 90px;
+    }
+
+    .right {
+        padding: 115px 45px;
+    }
+
+    .personaltraining{
+        font-size: 47px;
+    }
+
+    .lineclient {
+        margin: 20px 0px 20px 360px;
+    }
+
+    .footerset{
+        padding: 30px 145px;
+    }
+
+    .line {
+        margin: 0px 0px 20px 370px;
+    }
+
+    .mediaimg{
+        height: 1344px;
+    }
+}
