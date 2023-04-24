@@ -26,7 +26,6 @@
     font-size: 12px;
     background-color: #f36347;
     color: rgb(231,231,231);
-    /* border-radius: 10px; */
 }
 
 .topspan{
@@ -565,5 +564,19 @@
 
     .mediaimg{
         height: 1344px;
+    }
+}
+
+@media screen and (max-width:1024px) and (min-width: 769px){
+    .fitnessimage {
+        width: 65px;
+    }
+
+    .footerset {
+        padding: 15px 300px;
+    }
+
+    .lineclient {
+        margin: 20px 0px 20px 490px;
     }
 }
