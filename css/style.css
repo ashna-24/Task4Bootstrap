@@ -579,4 +579,20 @@
     .lineclient {
         margin: 20px 0px 20px 490px;
     }
+
+    .workouttext {
+        left: 15%;
+    }
+
+    .trainingset {
+        height: 796px;
+    }
+
+    .aboutworkoutset {
+        height: 870px;
+    }
+
+    .mapright {
+        padding: 198px 60px;
+    }
 }
